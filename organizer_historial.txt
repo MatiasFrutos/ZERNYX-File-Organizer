@@ -1,5 +1,0 @@
-------------------------------------------------------------
-Fecha: 2026-04-26 22:58:14
-Origen: ORGANIZACION
-Destino: C:/Users/matia/Downloads/Zernyx-main
-Resultado: OK: 16 movidos · Errores: 0
